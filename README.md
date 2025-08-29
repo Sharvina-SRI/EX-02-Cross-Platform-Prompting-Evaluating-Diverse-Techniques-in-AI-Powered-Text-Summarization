@@ -130,19 +130,26 @@ User Experience: Good but not as polished as ChatGPT.
 ## Algorithm (Methodology)
 
 Prepare the 500-word article on blockchain.
+
 Select platforms: ChatGPT, Gemini.
+
 Define prompting techniques: Zero-shot, Few-shot, Chain-of-Thought, Role-based.
+
 Design custom prompts for each technique (as above).
+
 Input article + prompt into the AI platform.
+
 Record outputs and evaluate: Accuracy, Coherence, Simplicity, Speed, User Experience.
+
 Compare results to determine best combination.
 
 ## Result
 
-Best Overall: ChatGPT with Role-based or Few-shot prompting
-Accurate, coherent, simple, and engaging.
-Secondary Option: Gemini with Few-shot prompting
-Fast and simple but less detailed.
+Best Overall: ChatGPT with Role-based or Few-shot prompting - Accurate, coherent, simple, and engaging.
+
+Secondary Option: Gemini with Few-shot prompting - Fast and simple but less detailed.
+
 Chain-of-Thought: Useful for deeper understanding, slower but more thorough in ChatGPT.
+
 Zero-shot: Fast but less accurate and detailed on both platforms.
 
