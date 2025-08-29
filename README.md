@@ -1,3 +1,6 @@
+## Name: Sharvina SRI
+## Register Number: 212222060238
+
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 ## AIM
